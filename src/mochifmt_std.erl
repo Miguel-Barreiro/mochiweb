@@ -2,6 +2,7 @@
 %% @copyright 2008 Mochi Media, Inc.
 
 %% @doc Template module for a mochifmt formatter.
+-include_lib("../deps/pmod_transform/include/pmod.hrl").
 
 -module(mochifmt_std).
 -author('bob@mochimedia.com').
